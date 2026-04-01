@@ -1,0 +1,2 @@
+# LearningCICD
+Django CI project
